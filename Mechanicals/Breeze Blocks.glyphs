@@ -2,12 +2,15 @@
 .appVersion = "3428";
 .formatVersion = 3;
 DisplayStrings = (
-"/pixel",
-"/pixel A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+" ",
+"  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
 " ",
 Z,
 X,
-H
+H,
+"/pixel.002",
+"/pixel.001/pixel.002/pixel.003",
+"/pixel.003"
 );
 date = "2025-09-21 19:39:23 +0000";
 familyName = "Breeze Blocks";
@@ -71,69 +74,69 @@ name = Regular;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2025-09-23 11:12:55 +0000";
+lastChange = "2025-10-02 11:15:51 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -150,67 +153,67 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -228,47 +231,47 @@ shapes = (
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -285,62 +288,62 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -357,67 +360,67 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,499);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,499);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -434,52 +437,52 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -497,57 +500,57 @@ shapes = (
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -564,62 +567,62 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -636,47 +639,47 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 750;
@@ -694,47 +697,47 @@ shapes = (
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,750);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -751,52 +754,52 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,749);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -813,37 +816,37 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 750;
@@ -860,67 +863,67 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (1000,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (1000,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (1000,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (1000,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (1000,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,749);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1250;
@@ -937,62 +940,62 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1010,52 +1013,52 @@ shapes = (
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1072,52 +1075,52 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1135,52 +1138,52 @@ shapes = (
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,-1);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,248);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1197,62 +1200,62 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,0);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1269,52 +1272,52 @@ layerId = m01;
 shapes = (
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (751,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1332,47 +1335,47 @@ shapes = (
 {
 alignment = -1;
 pos = (500,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (-1,1002);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (1000,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1250;
@@ -1390,52 +1393,52 @@ shapes = (
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1453,47 +1456,47 @@ shapes = (
 {
 alignment = -1;
 pos = (250,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (1000,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (1000,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,2);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1250;
@@ -1511,67 +1514,67 @@ shapes = (
 {
 alignment = -1;
 pos = (0,1250);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (250,250);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (500,750);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (1000,1250);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (1000,1000);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (1000,750);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 },
 {
 alignment = -1;
 pos = (750,501);
-ref = pixel;
+ref = pixel.001;
 scale = (1,-1);
 }
 );
@@ -1590,51 +1593,51 @@ shapes = (
 {
 alignment = -1;
 pos = (0,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1652,57 +1655,57 @@ shapes = (
 {
 alignment = -1;
 pos = (750,250);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (0,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,500);
-ref = pixel;
+ref = pixel.001;
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 }
 );
 width = 1000;
@@ -1720,67 +1723,67 @@ shapes = (
 {
 alignment = -1;
 pos = (1000,0);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (500,0);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (1000,1000);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (750,1000);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (500,1000);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (250,1000);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (750,750);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (250,250);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (250,0);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (750,0);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 },
 {
 alignment = -1;
 pos = (500,500);
-ref = pixel;
+ref = pixel.001;
 scale = (-1,1);
 }
 );
@@ -1788,266 +1791,6 @@ width = 1000;
 }
 );
 unicode = 90;
-},
-{
-glyphname = a;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 97;
-},
-{
-glyphname = b;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 98;
-},
-{
-glyphname = c;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 99;
-},
-{
-glyphname = d;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 100;
-},
-{
-glyphname = e;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 101;
-},
-{
-glyphname = f;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 102;
-},
-{
-glyphname = g;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 103;
-},
-{
-glyphname = h;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 104;
-},
-{
-glyphname = i;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 105;
-},
-{
-glyphname = j;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 106;
-},
-{
-glyphname = k;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 107;
-},
-{
-glyphname = l;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 108;
-},
-{
-glyphname = m;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 109;
-},
-{
-glyphname = n;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 110;
-},
-{
-glyphname = o;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 111;
-},
-{
-glyphname = p;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 112;
-},
-{
-glyphname = q;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 113;
-},
-{
-glyphname = r;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 114;
-},
-{
-glyphname = s;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 115;
-},
-{
-glyphname = t;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 116;
-},
-{
-glyphname = u;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 117;
-},
-{
-glyphname = v;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 118;
-},
-{
-glyphname = w;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 119;
-},
-{
-glyphname = x;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 120;
-},
-{
-glyphname = y;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 121;
-},
-{
-glyphname = z;
-layers = (
-{
-layerId = m01;
-width = 600;
-}
-);
-unicode = 122;
 },
 {
 glyphname = space;
@@ -2062,8 +1805,8 @@ unicode = 32;
 },
 {
 export = 0;
-glyphname = pixel;
-lastChange = "2025-09-22 11:08:35 +0000";
+glyphname = pixel.001;
+lastChange = "2025-10-02 11:00:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -2218,12 +1961,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(195,14,o),
-(165,44,o),
-(165,84,c),
-(205,84,o),
-(235,54,o),
-(235,14,c)
+(195,15,o),
+(165,45,o),
+(165,85,c),
+(205,85,o),
+(235,55,o),
+(235,15,c)
 );
 },
 {
@@ -2238,18 +1981,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(113,13,o),
-(103,23,o),
-(103,35,cs),
-(103,53,o),
-(118,74,o),
-(125,83,c),
-(132,74,o),
-(147,53,o),
-(147,35,cs),
-(147,23,o),
-(137,13,o),
-(125,13,cs)
+(113,15,o),
+(103,25,o),
+(103,37,cs),
+(103,55,o),
+(118,76,o),
+(125,85,c),
+(132,76,o),
+(147,55,o),
+(147,37,cs),
+(147,25,o),
+(137,15,o),
+(125,15,cs)
 );
 },
 {
@@ -2276,6 +2019,324 @@ nodes = (
 (147,113,o),
 (137,103,o),
 (125,103,cs)
+);
+}
+);
+width = 600;
+}
+);
+},
+{
+export = 0;
+glyphname = pixel.002;
+lastChange = "2025-10-02 11:00:53 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,125,l),
+(250,250,l),
+(125,250,l),
+(125,187,l),
+(137,160,o),
+(160,137,o),
+(187,125,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(125,0,l),
+(125,63,l),
+(113,90,o),
+(90,113,o),
+(63,125,c),
+(0,125,l),
+(0,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(23,113,l),
+(69,113,o),
+(113,69,o),
+(113,23,c),
+(23,23,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(63,125,l),
+(90,137,o),
+(113,160,o),
+(125,187,c),
+(125,250,l),
+(0,250,l),
+(0,125,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(23,227,l),
+(113,227,l),
+(113,181,o),
+(69,137,o),
+(23,137,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(250,0,l),
+(250,125,l),
+(187,125,l),
+(160,113,o),
+(137,90,o),
+(125,63,c),
+(125,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(137,69,o),
+(181,113,o),
+(227,113,c),
+(227,23,l),
+(137,23,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(181,137,o),
+(137,181,o),
+(137,227,c),
+(227,227,l),
+(227,137,l)
+);
+}
+);
+width = 600;
+}
+);
+},
+{
+export = 0;
+glyphname = pixel.003;
+lastChange = "2025-10-02 11:15:01 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,125,l),
+(170,150,o),
+(182,164,o),
+(182,164,c),
+(182,164,o),
+(194,150,o),
+(194,125,c),
+(250,125,l),
+(250,250,l),
+(125,250,l),
+(125,194,l),
+(150,194,o),
+(164,182,o),
+(164,182,c),
+(164,182,o),
+(150,170,o),
+(125,170,c),
+(125,147,l),
+(142,147,o),
+(150,150,o),
+(150,150,c),
+(150,150,o),
+(147,142,o),
+(147,125,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(125,0,l),
+(125,56,l),
+(100,56,o),
+(86,68,o),
+(86,68,c),
+(86,68,o),
+(100,80,o),
+(125,80,c),
+(125,103,l),
+(108,103,o),
+(100,100,o),
+(100,100,c),
+(100,100,o),
+(103,108,o),
+(103,125,c),
+(80,125,l),
+(80,100,o),
+(68,86,o),
+(68,86,c),
+(68,86,o),
+(56,100,o),
+(56,125,c),
+(0,125,l),
+(0,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(23,114,l),
+(34,114,l),
+(35,90,o),
+(53,69,o),
+(53,69,c),
+(23,39,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(69,53,l),
+(69,53,o),
+(90,35,o),
+(114,34,c),
+(114,23,l),
+(39,23,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(250,0,l),
+(250,125,l),
+(194,125,l),
+(194,100,o),
+(182,86,o),
+(182,86,c),
+(182,86,o),
+(170,100,o),
+(170,125,c),
+(147,125,l),
+(147,108,o),
+(150,100,o),
+(150,100,c),
+(150,100,o),
+(142,103,o),
+(125,103,c),
+(125,80,l),
+(150,80,o),
+(164,68,o),
+(164,68,c),
+(164,68,o),
+(150,56,o),
+(125,56,c),
+(125,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(136,34,l),
+(160,35,o),
+(181,53,o),
+(181,53,c),
+(211,23,l),
+(136,23,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(56,125,l),
+(56,150,o),
+(68,164,o),
+(68,164,c),
+(68,164,o),
+(80,150,o),
+(80,125,c),
+(103,125,l),
+(103,142,o),
+(100,150,o),
+(100,150,c),
+(100,150,o),
+(108,147,o),
+(125,147,c),
+(125,170,l),
+(100,170,o),
+(86,182,o),
+(86,182,c),
+(86,182,o),
+(100,194,o),
+(125,194,c),
+(125,250,l),
+(0,250,l),
+(0,125,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(23,211,l),
+(53,181,l),
+(53,181,o),
+(35,160,o),
+(34,136,c),
+(23,136,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(197,69,l),
+(197,69,o),
+(215,90,o),
+(216,114,c),
+(227,114,l),
+(227,39,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(39,227,l),
+(114,227,l),
+(114,216,l),
+(90,215,o),
+(69,197,o),
+(69,197,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(215,160,o),
+(197,181,o),
+(197,181,c),
+(227,211,l),
+(227,136,l),
+(216,136,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(181,197,o),
+(160,215,o),
+(136,216,c),
+(136,227,l),
+(211,227,l),
+(181,197,l)
 );
 }
 );
